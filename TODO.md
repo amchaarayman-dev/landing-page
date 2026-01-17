@@ -1,0 +1,4 @@
+- [x] Update index.html: Change hero image src to "images/باك-كبار-السن-كرسي-والعكاز-03.jpg"
+- [x] Update styles.css: Add responsive media queries for max-width: 480px to improve mobile fluidity
+- [x] Add a product gallery section with the other two images
+- [x] Update styles.css for gallery responsiveness
